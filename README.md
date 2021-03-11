@@ -1,6 +1,6 @@
 # Assignment: Timetables
 
-Maria 01 is located at [Maria 01](https://www.google.com/maps/place/Lapinlahdenkatu+16,+00180+Helsinki,+Suomi). Even while it is close to various public transportation options, people might still be easily late from work. And what's worst, our people might forget to leave early as they are working on something challenging.
+Maria 01 is located at [Lapinlahdenkatu 16](https://www.google.com/maps/place/Lapinlahdenkatu+16,+00180+Helsinki,+Suomi). Even while it is close to various public transportation options, people might still be easily late from work. And what's worst, our people might forget to leave early as they are working on something challenging.
 
 Your task is to help us leave at the right time so that they would not miss any important, or why not less important, commitments.
 
